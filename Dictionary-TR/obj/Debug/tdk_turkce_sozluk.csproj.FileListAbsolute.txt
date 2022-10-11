@@ -1,0 +1,14 @@
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\bin\Debug\tdk_turkce_sozluk.exe.config
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\bin\Debug\tdk_turkce_sozluk.exe
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\bin\Debug\tdk_turkce_sozluk.pdb
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\bin\Debug\HtmlAgilityPack.dll
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\bin\Debug\HtmlAgilityPack.xml
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\obj\Debug\tdk_turkce_sozluk.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\obj\Debug\tdk_turkce_sozluk.Form1.resources
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\obj\Debug\tdk_turkce_sozluk.Properties.Resources.resources
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\obj\Debug\tdk_turkce_sozluk.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\obj\Debug\tdk_turkce_sozluk.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\obj\Debug\tdk_turkce_sozluk.csproj.CopyComplete
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\obj\Debug\tdk_turkce_sozluk.exe
+C:\Users\asus\Desktop\c# örnekler\Dictionary-TR\csharp_turkce_sozluk-main\Dictionary-TR\obj\Debug\tdk_turkce_sozluk.pdb
